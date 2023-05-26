@@ -1,0 +1,16 @@
+main img{
+    width: 100%;
+    height: 100%;
+  }
+  
+  
+  .st img {
+    width: 50%;
+    height: 50%;
+    display: block;
+  }
+  
+    .st{
+    display: flex;
+    justify-content: space-around;
+  }

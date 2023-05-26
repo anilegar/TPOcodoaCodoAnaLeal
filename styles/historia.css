@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+    
+h1{
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 3vw;
+    margin: 8%;
+    animation: backInDown 2s;
+}
+
+.historia{
+    font-family: 'Shadows Into Light', cursive;
+    display: contents;
+}
+
+.historia p{
+    text-align: justify;
+    padding: 0px 90px 20px 100px;
+    font-size: 2vw;
+}
+
+.avatar{
+    width: 20%;
+    height: 20%;
+    
+
+}

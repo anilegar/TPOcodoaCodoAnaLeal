@@ -1,0 +1,82 @@
+.notebook img {
+    width: 20%;
+    height: 20%;
+    display: inline-block;
+    border: 1px solid lightgrey;
+    box-shadow: 2px 2px 8px 4px #d3d3d3d1;
+    border-radius: 15px;
+    transition-property: width;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    margin-top: 100px;
+  }
+  
+  
+  .notebook img:hover{
+    width: 22%;
+  }
+  .notebook{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .tv img {
+    width: 20%;
+    height: 20%;
+    display: inline-block;
+    border: 1px solid lightgrey;
+    box-shadow: 2px 2px 8px 4px #d3d3d3d1;
+    border-radius: 15px;
+    transition-property: width;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    margin-top: 200px;
+  }
+  .tv img:hover{
+    width: 22%;
+  }
+  .tv{
+    display: flex;
+    justify-content: space-around;
+  }
+
+
+  .monitores img {
+    width: 20%;
+    height: 20%;
+    display: inline-block;
+    border: 1px solid lightgrey;
+    box-shadow: 2px 2px 8px 4px #d3d3d3d1;
+    border-radius: 15px;
+    transition-property: width;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    margin-top: 200px;
+  }
+  .monitores img:hover{
+    width: 22%;
+  }
+  .monitores{
+    display: flex;
+    justify-content: space-around;
+  }
+ 
+  .tele img {
+    width: 20%;
+    height: 20%;
+    display: inline-block;
+    border: 1px solid lightgrey;
+    box-shadow: 2px 2px 8px 4px #d3d3d3d1;
+    border-radius: 15px;
+    transition-property: width;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    margin-top: 200px;
+  }
+  .tele img:hover{
+    width: 22%;
+  }
+  .tele{
+    display: flex;
+    justify-content: space-around;
+  }

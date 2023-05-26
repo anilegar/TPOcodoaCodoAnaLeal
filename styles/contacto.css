@@ -1,0 +1,49 @@
+form {
+	display: flex;
+	flex-direction: column;
+	max-width: 400px;
+	margin: 0 auto;
+	margin-top: 5%;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+	padding: 10px;
+	margin-bottom: 10px;
+  }
+  
+  input[type="submit"] {
+	padding: 10px 20px;
+	background-color: #2e2d2d;
+	color: white;
+	border: none;
+	cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+	background-color: #c4c4c4;
+	color: black;
+  }
+  
+  /* Estilos adicionales para hacer el formulario más atractivo */
+  input[type="text"],
+  input[type="email"],
+  textarea,
+  input[type="submit"] {
+	border: 1px solid #ccc;
+	border-radius: 4px;
+  }
+  
+  input[type="submit"] {
+	font-weight: bold;
+  }
+  
+  input[type="submit"]:focus {
+	outline: none;
+  }
+  
+  .mapouter{
+    margin-left: 3%;
+    margin-top: 8%;
+  }
